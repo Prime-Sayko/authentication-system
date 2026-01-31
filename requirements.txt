@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+requests
+tqdm
+opencv-python
+torch
+torchaudio
+speechbrain
+insightface
