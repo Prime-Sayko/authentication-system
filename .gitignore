@@ -205,3 +205,30 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --- Project privacy & runtime data (Authentication-System) ---
+
+# Never commit real datasets (keep structure via .gitkeep only)
+dataset/**
+!dataset/**/.gitkeep
+
+# Do not commit runtime logs / attempt histories (may contain identifiers)
+logs/*.jsonl
+logs/*.log
+!logs/.gitkeep
+
+# Do not commit real DB content (keep templates/structure)
+db/*.bak
+db/*.tmp
+
+# If you keep placeholder JSONs in repo, keep them.
+# If you prefer templates only, rename to *.example.* and ignore real ones:
+# db/teachers.json
+# db/pending.json
+
+# Vosk models are external & large (also licensing considerations)
+vosk-model-*/
+vosk-model*/
+
+# OS files
+.DS_Store
+Thumbs.db
